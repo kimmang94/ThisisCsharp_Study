@@ -1,0 +1,14 @@
+C:\thisisCsharp\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.exe
+C:\thisisCsharp\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.deps.json
+C:\thisisCsharp\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.json
+C:\thisisCsharp\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.dev.json
+C:\thisisCsharp\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.dll
+C:\thisisCsharp\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.pdb
+C:\thisisCsharp\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.csproj.AssemblyReference.cache
+C:\thisisCsharp\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\thisisCsharp\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfoInputs.cache
+C:\thisisCsharp\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfo.cs
+C:\thisisCsharp\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.csproj.CoreCompileInputs.cache
+C:\thisisCsharp\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.dll
+C:\thisisCsharp\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.pdb
+C:\thisisCsharp\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.genruntimeconfig.cache
